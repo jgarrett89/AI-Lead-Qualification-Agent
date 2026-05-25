@@ -82,7 +82,7 @@ GHL sends form fields using these keys. Make sure your form fields match:
 
 ## Demo
 
-[Add Loom video link here]
+[Coming Soon]
 
 ## Example output
 
