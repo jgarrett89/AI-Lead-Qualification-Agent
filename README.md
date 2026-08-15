@@ -112,7 +112,3 @@ GHL sends form fields using these keys. Make sure your form fields match:
 - Docker
 - Caddy reverse proxy with automatic SSL (Let's Encrypt)
 - n8n v2.17.7
-
-## Author
-
-Built by Jimmie as part of an AI automation portfolio (AI engineering and workflow automation).
